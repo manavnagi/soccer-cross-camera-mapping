@@ -1,3 +1,8 @@
+![image](https://github.com/user-attachments/assets/d4c36444-1662-4b7b-86c2-df2f69ed0b36)
+
+
+
+
 # Soccer Cross-Camera Player Mapping
 
 This project performs player detection, tracking, and cross-camera player ID mapping between two soccer videos (broadcast and tacticam) using a YOLO-based model and spatial matching.
